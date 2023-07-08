@@ -8,6 +8,6 @@ It was born because i was bored and i didint have anything productive to do so y
 They will once they're done.
 
 ## Who is in the project?
-For now the members are: sen_ (me), rama0dev, davjok.
+For now the members are: sen_ (me), rama0dev, davjok, miaixo.
 
 ## Stay tuned for more updates!
