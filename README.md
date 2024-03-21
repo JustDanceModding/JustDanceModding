@@ -1,3 +1,6 @@
+# Announcement
+This repository is officially dead. I tried to put as much work in it as i could, but it had no success. Nobody cared of the tools, so i decided to private them all, and may this org. rest in peace.
+
 ## JustDanceModding
 This organization is a project which will include a bunch of tools for modding the Just Dance Series games.
 
